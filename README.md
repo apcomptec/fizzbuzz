@@ -24,5 +24,4 @@ Se activa el servidor basado en Spring:
 ```shell
 $ ./gradlew bootRun
 ```
- y finalmente
-abra el navegador en [http://localhost:8080](http://localhost:8080).
+ y finalmente abra el navegador en [http://localhost:8080](http://localhost:8080).
